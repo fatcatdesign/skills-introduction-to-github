@@ -17,6 +17,6 @@
 - [x]  Created **test-branch** branch to-re-practice
 - [x] Created **PRACTICE-NOTES.md** (this file) under _test-branch_
 - [x] **Committed** PRACTICE-NOTES.md
-- [ ] Created a **Pull Request** for PRACTICE-NOTES.md to compare
-- [ ] **Merged Pull Request**
-- [ ] Deleted **test-branch** 
+- [x] Created a **Pull Request** for PRACTICE-NOTES.md to compare
+- [x] **Merged Pull Request**
+- [x] Deleted **test-branch** 
